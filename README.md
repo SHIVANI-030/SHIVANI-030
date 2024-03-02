@@ -21,7 +21,7 @@ citizens, prioritizing security, accuracy, reliability, speed, and auditability.
 safeguards.
 
 ## Get in Touch
-- LinkedIn: [SHIVANI DAS]((https://www.linkedin.com/in/shivani-das-039b2b21b/)
+- LinkedIn: [SHIVANI DAS]((https://www.linkedin.com/in/shivani-das-039b2b21b/))
 - Email: [SHIVANI DAS ](mailto:shivanidas233@gmail.com)
 
 
