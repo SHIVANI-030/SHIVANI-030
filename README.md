@@ -1,9 +1,8 @@
 # Welcome to SHIVANI DAS GitHub Profile! 👋
 
-![Banner](https://via.placeholder.com/800x200.png)
-
 ## About Me
-I am a passionate student with skills in Java, Cyber Security, HTML/CSS, Git, JavaScript, MySQL, React JS, and OOP. I love to learn and explore new technologies and contribute to open-source projects.
+I am a results-oriented Computer Science Engineering graduate with a strong academic background and practical experience in software development, systems analysis, and project management. Passionate
+about Cybersecurity and dedicated to continuous learning. Eager to apply theoretical knowledge in real-world IT scenarios and contribute to an innovative organization.
 
 ## Skills
 - Java
@@ -22,7 +21,7 @@ citizens, prioritizing security, accuracy, reliability, speed, and auditability.
 safeguards.
 
 ## Get in Touch
-- LinkedIn: [SHIVANI DAS]([link-to-linkedin](https://www.linkedin.com/in/shivani-das-039b2b21b/))
+- LinkedIn: [SHIVANI DAS]((https://www.linkedin.com/in/shivani-das-039b2b21b/)
 - Email: [SHIVANI DAS ](mailto:shivanidas233@gmail.com)
 
 
