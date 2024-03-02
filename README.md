@@ -32,6 +32,6 @@ safeguards.
 ![Your GitHub top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
 
 ## Let's Connect
-![Animated GIF]([https://giphy.com/clips/space-galaxy-percolate-galactic-Hjfhi1fP4NnnKTZUP1](https://media0.giphy.com/media/26BGIqWh2R1fi6JDa/200w.gif)https://media0.giphy.com/media/26BGIqWh2R1fi6JDa/200w.gif)
+![Animated GIF](https://media0.giphy.com/media/26BGIqWh2R1fi6JDa/200w.gif))
 
 Feel free to reach out and connect with me! 😊
