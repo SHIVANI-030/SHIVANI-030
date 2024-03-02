@@ -1,4 +1,4 @@
-# Welcome to [Your Name]'s GitHub Profile! 👋
+# Welcome to SHIVANI DAS GitHub Profile! 👋
 
 ![Banner](https://via.placeholder.com/800x200.png)
 
@@ -17,16 +17,14 @@ I am a passionate student with skills in Java, Cyber Security, HTML/CSS, Git, Ja
 
 ## Projects
 Here are some of my notable projects:
-- [Project 1](link-to-project-1): Description of project 1
-- [Project 2](link-to-project-2): Description of project 2
-- [Project 3](link-to-project-3): Description of project 3
+- [E-Voting system using Blockchain](link-to-project-1):This project aims to develop a blockchain-based web application facilitating remote voting for eligible
+citizens, prioritizing security, accuracy, reliability, speed, and auditability. While existing research emphasizes these aspects, current systems exhibit vulnerabilities to potential attacks, warranting enhanced
+safeguards.
 
 ## Get in Touch
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Email: [Your Email Address](mailto:youremail@example.com)
+- LinkedIn: [SHIVANI DAS]([link-to-linkedin](https://www.linkedin.com/in/shivani-das-039b2b21b/))
+- Email: [SHIVANI DAS ](mailto:shivanidas233@gmail.com)
 
-## Fun Fact
-Did you know that I once solved a cybersecurity challenge in under 10 minutes?
 
 ## GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
